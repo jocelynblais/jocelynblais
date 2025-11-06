@@ -20,7 +20,7 @@ Je poursuis mes études, je travaille avec **Code Source Marketing**, et je dév
 J’aime comprendre le “pourquoi” derrière la technologie et créer des outils qui rendent la vie des développeurs et créateurs plus simple.
 
 N’hésite pas à me contacter si tu veux discuter tech, projets ou idées.  
-*(Ajoute ton courriel ou site ici)*
+joblais43@gmail.com
 
 
 ---
@@ -47,4 +47,4 @@ I study, work with **Code Source Marketing**, and build my products at the same 
 I love understanding technology deeply and creating tools that solve meaningful problems.
 
 Feel free to reach out if you’d like to share ideas or talk about projects.  
-*(Add your email or website here)*
+joblais43@gmail.com
