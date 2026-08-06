@@ -1,47 +1,32 @@
-# À propos de moi 🇨🇦
+# Jocelyn Blais-Rochon 🇨🇦
 
-Salut! Moi c’est **Jocelyn Blais-Rochon** — développeur full-stack, créateur de solutions web et passionné par l’écosystème WordPress.
+Je m'appelle Jocelyn Blais-Rochon. Je suis gestionnaire de production web et développeur full-stack chez Code Source Marketing, une agence de marketing numérique.
 
-J’aime transformer des idées en outils concrets. Je construis autant pour apprendre que pour aider les gens à créer plus facilement sur le web. Je travaille sur toutes les couches : front-end, back-end, cloud, et conception produit. Ce qui m’anime le plus, c’est concevoir des outils pratiques ayant un véritable impact.
+J'aime résoudre des problèmes, qu'ils soient techniques ou humains. Je travaille sur toutes les couches d'un projet web : le front-end, le back-end, l'infrastructure cloud, et la conception du produit lui-même.
 
-## Projets actuels
+En ce moment, je développe CSM Nova, un outil interne pour l'agence. Il centralise les données des clients et les rend plus faciles à utiliser, notamment avec l'intelligence artificielle. Je l'ai construit avec Next.js, Supabase et TailwindCSS, et il est déployé sur Vercel.
 
-- **GoWPress (GoWPress)** : écosystème moderne visant à accélérer et simplifier le développement WordPress.
-- **GoForms** : form builder flexible incluant intégrations et automatisations.
-- **GoSupport.app** : plateforme SaaS de support client combinant collaboration, automatisation et IA.
+Je poursuis aussi une formation continue en gestion à HEC Montréal, en parallèle de mon travail.
 
-## Stack principale
+Ma stack principale : React, Next.js, TypeScript, Supabase, Node.js, Tailwind CSS, Docker, WordPress et PHP.
 
-React, Next.js, TypeScript, Supabase, Node.js, Tailwind CSS, Docker, WordPress, PHP
-
-## En bref
-
-Je poursuis mes études, je travaille avec **Code Source Marketing**, et je développe mes projets en parallèle.  
-J’aime comprendre le “pourquoi” derrière la technologie et créer des outils qui rendent la vie des développeurs et créateurs plus simple.
-
-N’hésite pas à me contacter si tu veux discuter tech, projets ou idées.  
-joblais43@gmail.com
-
+Si tu veux discuter d'un projet ou simplement échanger des idées, écris-moi à jocelyn@blaisrochon.com.
 
 ---
 
-# About Me 🇨🇦
+# Jocelyn Blais-Rochon 🇨🇦
 
-Hi, I’m **Jocelyn Blais-Rochon** — a full-stack developer and product-oriented builder passionate about the modern web and the WordPress ecosystem.
+My name is Jocelyn Blais-Rochon. I work as a web production manager and full-stack developer at Code Source Marketing, a digital marketing agency.
 
-I enjoy turning ideas into working tools. I build to learn, experiment, and help others create more efficiently online. I work across the stack: front-end, back-end, cloud, and product design. What drives me most is shipping useful, meaningful products.
+I enjoy solving problems, whether they're technical or human. I work across every layer of a web project: front-end, back-end, cloud infrastructure, and product design.
 
-## Current Projects
+Right now, I'm building CSM Nova, an internal tool for the agency. It centralizes client data and makes it easier to use, including with artificial intelligence. I built it with Next.js, Supabase, and TailwindCSS, and it's deployed on Vercel.
 
-- **GoWPress (GoWPress)**: a modern ecosystem that improves and accelerates WordPress development.
-- **GoForms**: a flexible form builder with integrations and automation.
-- **GoSupport.app**: a SaaS support platform blending collaboration, automation, and AI tools.
+I'm also pursuing continuing education in management at HEC Montréal, alongside my work.
 
-## Main Tech Stack
+My main stack: React, Next.js, TypeScript, Supabase, Node.js, Tailwind CSS, Docker, WordPress, and PHP.
 
-React, Next.js, TypeScript, Supabase, Node.js, Tailwind CSS, Docker, WordPress, PHP
-
-## Quick Summary
+If you'd like to talk about a project or just exchange ideas, feel free to reach out at jocelyn@blaisrochon.com.
 
 I study, work with **Code Source Marketing**, and build my products at the same time.  
 I love understanding technology deeply and creating tools that solve meaningful problems.
